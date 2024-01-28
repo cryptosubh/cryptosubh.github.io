@@ -37,7 +37,7 @@ portfolio_description: you can include a portfolio showcasing your work and orga
 # By declaring these variables, you can include a CTA section.
 cta: Connect # the heading for your CTA section
 cta_description: You can reach me in the following emails - ms20121 at iisermohali dot ac dot in, subhamdas965 at gmail dot com. # a description to be desplayed below the heading and above the content
-cta_button: https://github.com/cryptosubh/cryptosubh.github.io/blob/master/pgpkey.md # a link to an external website or to media
+cta_button: https://github.com/cryptosubh/cryptosubh.github.io/blob/master/pgpkey.html # a link to an external website or to media
 cta_button_label: PGP key # the label on the button
 
 ---			
