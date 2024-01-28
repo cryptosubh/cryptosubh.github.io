@@ -35,10 +35,10 @@ portfolio_description: you can include a portfolio showcasing your work and orga
 # optional CTA section --------------------------------------------------
 
 # By declaring these variables, you can include a CTA section.
-cta: connect # the heading for your CTA section
-cta_description: questions, comments, or concerns? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
-cta_button: mailto:saragong@usc.edu # a link to an external website or to media
-cta_button_label: contact # the label on the button
+cta: Connect # the heading for your CTA section
+cta_description: You can reach me in the following emails - ms20121 at iisermohali dot ac dot in, subhamdas965 at gmail dot com. # a description to be desplayed below the heading and above the content
+cta_button: https://github.com/cryptosubh/cryptosubh.github.io/blob/master/pgpkey.md # a link to an external website or to media
+cta_button_label: PGP key # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
