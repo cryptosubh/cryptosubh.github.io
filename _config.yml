@@ -1,11 +1,11 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello for Github Pages
-author: Sara Gong
+title: Welcome to my page
+author: Subham Das
 description: > 
   A minimalist template for designing a personal GitHub Pages website - without typing a single line of code.
-baseurl: ""
+baseurl: "https://cryptosubh.github.io"
 
 plugins:
   - jekyll-feed
