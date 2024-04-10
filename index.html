@@ -25,10 +25,10 @@
     		border-radius: 2px;
 		}
 		
-		[data-theme="light"] a:focus {
+		/*[data-theme="light"] a:focus {
 			outline: 2px solid rgba(25,25,25,0.5);
     		border-radius: 2px;
-		}
+		}*/
 
 		/* adjust contain widths */
 		@media (max-width: 1199px) {
@@ -52,7 +52,7 @@
 		}
 
 		/* dark/light mode toggle button */
-		#light-toggle {
+		/*#light-toggle {
 			position: absolute;
 			top: 10px;
 			right: 10px;
@@ -117,11 +117,7 @@
 </head>
 
 <body>
-	<main role="main" class="container">
-		<a href="#" role="button" onclick="toggleLight();return false;" id="light-toggle" class="contrast">🌗 Light</a>
-		<div id="insert"></div>
-	</main>
-
+	
 <script type="text/javascript">
 
 // set syntax highlighting theme based on light or dark mode
@@ -136,7 +132,7 @@ function setHighlightTheme(mode) {
 }
 
 // toggle between light and dark mode
-function toggleLight() {
+/*function toggleLight() {
 	var mode = localStorage.getItem("mode");
 	if (mode == "light") {
 		document.documentElement.setAttribute("data-theme", "dark");
@@ -151,7 +147,7 @@ function toggleLight() {
 		document.getElementById('light-toggle').style.color = "#ddd";
 		localStorage.setItem("mode", "light");
 		setHighlightTheme("light");
-	}
+	}*/
 }
 
 // helper function to grab query string value
