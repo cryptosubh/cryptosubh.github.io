@@ -8,7 +8,7 @@ Masters student, Majoring in Mathematics at IISER Mohali, India
 
 **Email**: subhamdas965 (at) gmail (dot) com /  ms20121 (at) iisermohali (dot) ac (dot) in
 
-**PGP keys**: [7837 6896 7A03 84B8 FF24 AE19 BCCF 82E9 DBB2 2C46](?page=pgp)
+**PGP**: [7837 6896 7A03 84B8 FF24 AE19 BCCF 82E9 DBB2 2C46](?page=pgp)
 
 **CV**: Available upon request (drop me an email)
 
