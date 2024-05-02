@@ -1,10 +1,10 @@
 #Subham Das
 
-_`Last updated: 10/04/2024`_
+_`Last updated: 02/05/2024`_
 
 ##About 
 
-Masters student, Majoring in Mathematics at IISER Mohali, India
+Masters student, Majoring in Mathematics at [IISER Mohali, India](https://www.iisermohali.ac.in/)
 
 **Email**: subhamdas965 (at) gmail (dot) com /  ms20121 (at) iisermohali (dot) ac (dot) in
 
@@ -12,7 +12,7 @@ Masters student, Majoring in Mathematics at IISER Mohali, India
 
 **CV**: Available upon request (drop me an email)
 
-**Research Interests**: Isogenies, Post-Quantum cryptography and Algebraic geometry.
+**Research Interests**: Isogenies, Post-Quantum cryptography, Complexity theory and Algebraic geometry.
 
 ##Links 
 
