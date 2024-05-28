@@ -4,7 +4,7 @@ _[Back to homepage](https://cryptosubh.github.io/)_
 
 ##Notes and Reports
 
-[Sum of Three Cubes: A problem revisited](https://cryptosubh.github.ioassets/MTH419_Term_paper.pdf), a term paper presented in the Number theory course, Spring Semester 2023.
+[Sum of Three Cubes: A problem revisited](https://cryptosubh.github.io/assets/MTH419_Term_paper.pdf), a term paper presented in the Number theory course, Spring Semester 2023.
 
 [Labour Migration and Rural Industrialization in West Bengal in the backdrop of Harris-Todaro model](https://cryptosubh.github.io/assets/HSS648_Report.pdf), a report delivered based on a project in the Developmental Economics course, Spring Semester 2024.
 
