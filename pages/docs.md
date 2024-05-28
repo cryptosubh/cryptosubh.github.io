@@ -1,6 +1,6 @@
 #Documents
 
-_[Back to homepage](?page=README)_
+_[Back to homepage](https://cryptosubh.github.io/)_
 
 _`Under construction`_
 
@@ -10,5 +10,5 @@ None
 
 ##Talks
 
-[On Harder Narasimhan filtrations](https://cryptosubh.github.io/assets/IDC%20451.pdf), a seminar delivered to the Department of Mathematics, IISER Mohali.
+- [On Harder Narasimhan filtrations](https://cryptosubh.github.io/assets/IDC%20451.pdf), a seminar delivered to the Department of Mathematics, IISER Mohali.
 - 
