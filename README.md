@@ -1,6 +1,6 @@
 #Subham Das
 
-_`Last updated: 02/05/2024`_
+_`Last updated: 28/05/2024 4:16 UTC`_
 
 ##About 
 
@@ -16,7 +16,7 @@ Masters student, Majoring in Mathematics at [IISER Mohali, India](https://www.ii
 
 ##Links 
 
-- [Docs](?page=docs): List of ~~publications~~, talks etc.  
+- [Docs](?page=docs): List of ~~publications~~, talks, notes etc.  
 - [Haikus](?page=haiku): A collection of (English) haikus I wrote
 
 

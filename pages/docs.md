@@ -2,8 +2,6 @@
 
 _[Back to homepage](https://cryptosubh.github.io/)_
 
-_`Under construction`_
-
 ##Notes and Reports
 
 [Sum of Three Cubes: A problem revisited](https://cryptosubh.github.ioassets/MTH419_Term_paper.pdf), a term paper presented in the Number theory course, Spring Semester 2023.
