@@ -10,6 +10,8 @@ _[Back to homepage](https://cryptosubh.github.io/)_
 
 ##Talks
 
+[A review of the SILBE protocol](https://cryptosubh.github.io/assets/SILBErev.pdf), a brief review of the SILBE protocol based on the Masked SIDH scheme. 
+
 [On Harder Narasimhan filtrations](https://cryptosubh.github.io/assets/IDC%20451.pdf), a seminar on the subject of vector bundles, delivered to the Department of Mathematics, IISER Mohali, Fall Semester 2023.
 
 [On the Krull-Schmidt Theorem](https://cryptosubh.github.io/assets/301_Term_Paper.pdf), a seminar delivered in the Group theory course, Fall Semester 2022. 
