@@ -18,8 +18,7 @@ Masters student, Majoring in Mathematics at [IISER Mohali, India](https://www.ii
 
 - [Docs](?page=docs): List of ~~publications~~, talks, notes etc.  
 - [Haikus](?page=haiku): A collection of (English) haikus I wrote
-- [The Moral Character of Cryptographic Work (2015, Rogaway)](https://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
-- [Russell-Einstein Manifesto](https://ahf.nuclearmuseum.org/ahf/key-documents/russell-einstein-manifesto/)
+- [Remember your humanity, and forget the rest.](https://ahf.nuclearmuseum.org/ahf/key-documents/russell-einstein-manifesto/) 
 
 
 
