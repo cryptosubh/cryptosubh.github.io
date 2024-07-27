@@ -12,7 +12,7 @@ Masters student, Majoring in Mathematics at [IISER Mohali, India](https://www.ii
 
 **Curriculum Vitae**: [here](https://cryptosubh.github.io/assets/CVredact.pdf). Kindly email me to avail full CV. 
 
-**Research Interests**: Isogenies, Post-Quantum cryptography, Complexity theory and Algebraic geometry.
+**Research Interests**: Isogenies, Post-Quantum cryptography, Algebraic geometry and Secure multi-party computation. Broadly, I enjoy cryptanalysis and construction of secure communication protocols.  
 
 ##Links 
 
